@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Prediction – EDA Branch
+# 📊 Telecom Customer Churn Prediction – EDA Analysis
 
 This branch contains the complete **Exploratory Data Analysis (EDA)** workflow for the Telecom Customer Churn Prediction project. The goal of this analysis is to understand customer behavior, identify churn patterns, detect important features, and prepare the dataset for machine learning.
 
