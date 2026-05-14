@@ -39,12 +39,15 @@ A gradient boosting model with strong predictive performance.
 
 # Model performance
 Model	Accuracy:
-Logistic Regression:	75.09%
-Random Forest:	77.29%
-XGBoost:	77.22%
-# The best model in Random Forest
+-Logistic Regression:	75.09%
+-Random Forest:	77.29%
+-XGBoost:	77.22%
+The best model in Random Forest
 
-#
+# Classification Report
+
+# ROC-AUC Score
+XGBoost ROC-AUC: 0.721
 
 
 deployed app : https://customer-churn-prediction-for-telecom-companies.streamlit.app/
