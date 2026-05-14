@@ -243,11 +243,6 @@ If you would like to improve the analysis or add more visualizations:
 
 ---
 
-# 📜 License
-
-This project is intended for educational and learning purposes.
-
----
 
 
 
