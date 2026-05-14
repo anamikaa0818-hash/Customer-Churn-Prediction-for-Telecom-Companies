@@ -16,14 +16,35 @@ This project:
 # Dataset
 
 This project uses the popular IBM Telco Customer Churn dataset.
-
-Dataset name: WA_Fn-UseC_-Telco-Customer-Churn.csv
 Number of rows: 7,043 customers
 Number of columns: 21 features
 
 Target Variable - Churn
 
+# Exploratory Data Analysis (EDA)
+EDA was used to understand customer behavior and identify factors associated with churn.
+Customers on month-to-month contracts, those with higher monthly charges, and those with shorter tenure are more likely to leave. Those using fiber optic internet and those paying by electronic check also exhibit higher churn rates.Senior citizens show slightly higher churn compared to other customers. 
 
+# Data Preprocessing
+
+# Models used:
+1. Logistic Regression
+A simple and interpretable baseline model.
+
+2. Random Forest Classifier
+An ensemble tree-based model.
+
+3. XGBoost Classifier
+A gradient boosting model with strong predictive performance.
+
+# Model performance
+Model	Accuracy:
+Logistic Regression:	75.09%
+Random Forest:	77.29%
+XGBoost:	77.22%
+# The best model in Random Forest
+
+#
 
 
 deployed app : https://customer-churn-prediction-for-telecom-companies.streamlit.app/
