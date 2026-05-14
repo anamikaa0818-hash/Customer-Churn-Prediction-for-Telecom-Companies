@@ -255,13 +255,6 @@ Developed as part of a Telecom Customer Churn Prediction analytics project.
 
 ---
 
-# ⭐ If You Found This Useful
-
-If you found this project helpful:
-
-- Star the repository
-- Fork the project
-- Share it with others
 
 ---
 
