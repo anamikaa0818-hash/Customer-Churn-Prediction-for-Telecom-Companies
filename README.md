@@ -249,11 +249,7 @@ This project is intended for educational and learning purposes.
 
 ---
 
-# 👨‍💻 Author
 
-Developed as part of a Telecom Customer Churn Prediction analytics project.
-
----
 
 
 ---
