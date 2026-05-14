@@ -38,10 +38,10 @@ An ensemble tree-based model.
 A gradient boosting model with strong predictive performance.
 
 # Model performance
-Model	Accuracy:
--Logistic Regression:	75.09%
--Random Forest:	77.29%
--XGBoost:	77.22%
+Model	Accuracy
+1. Logistic Regression:	75.09%
+2. Random Forest:	77.29%
+3. XGBoost:	77.22%
 The best model in Random Forest
 
 # Classification Report
