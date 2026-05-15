@@ -16,3 +16,15 @@ The application includes:
 - 📋 Classification Report
 
 ---
+
+# 🧠 Machine Learning Model
+
+The application uses:
+
+- **Random Forest Classifier**
+- **Scikit-learn**
+- **Label Encoding**
+- **Train-Test Split**
+- **ROC-AUC Evaluation**
+
+---
