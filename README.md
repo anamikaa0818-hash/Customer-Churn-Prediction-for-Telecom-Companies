@@ -76,3 +76,27 @@ Displays:
 - Joblib
 
 ---
+
+# 📂 Project Structure
+
+```bash
+Telecom-Churn-Prediction/
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── data/
+│   └── raw/
+│       └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│
+├── models/
+│   └── churn_model.pkl
+│
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 03_eda.ipynb
+│   └── 05_model_training.ipynb
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
