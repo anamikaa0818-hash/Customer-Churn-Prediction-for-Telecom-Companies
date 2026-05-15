@@ -44,10 +44,12 @@ Model	Accuracy
 3. XGBoost:	77.22%
 The best model in Random Forest
 
-# Classification Report
+
 
 # ROC-AUC Score
 XGBoost ROC-AUC: 0.721
+<img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/df24bd86-e244-4898-a8c1-028f68188c5c" />
+
 
 # Deployment
 deployed app : https://customer-churn-prediction-for-telecom-companies.streamlit.app/
