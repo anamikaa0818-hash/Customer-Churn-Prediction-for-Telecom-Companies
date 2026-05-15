@@ -28,3 +28,14 @@ The application uses:
 - **ROC-AUC Evaluation**
 
 ---
+
+# 📂 Features of the Application
+
+## 🔮 Predict Customer Churn
+Users can:
+- Enter customer details
+- Select service information
+- Input billing details
+- Predict churn probability instantly
+
+---
