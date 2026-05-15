@@ -49,3 +49,30 @@ The application provides:
 - Tenure vs churn analysis
 
 ---
+
+## 🤖 Model Performance Dashboard
+
+Displays:
+- Accuracy Score
+- ROC-AUC Score
+- Confusion Matrix
+- ROC Curve
+- Classification Report
+
+---
+
+# 🛠️ Technologies Used
+
+## Programming Language
+- Python
+
+## Libraries & Frameworks
+- Streamlit
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+
+---
