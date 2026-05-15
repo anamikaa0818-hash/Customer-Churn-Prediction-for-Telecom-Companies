@@ -39,3 +39,13 @@ Users can:
 - Predict churn probability instantly
 
 ---
+
+## 📈 Exploratory Data Analysis (EDA)
+
+The application provides:
+- Customer churn distribution
+- Contract type vs churn analysis
+- Monthly charges distribution
+- Tenure vs churn analysis
+
+---
